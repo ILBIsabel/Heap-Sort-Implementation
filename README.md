@@ -9,6 +9,8 @@ Sorting Mechanism: Built a max heap from the input array and repeatedly extracte
 
 Demonstration Program: Created a main program to showcase the algorithm, which includes initializing an array, printing the original array, performing the heap sort, and printing the sorted array.
 
+
+
 Abstract:
    This program implements the heap sort algorithm to sort an array of integers. It starts by building a max-heap from the input array, which is a
    complete binary tree where each node's value is greater than or equal to the values of its children. The program achieves this by comparing 
